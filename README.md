@@ -1,4 +1,4 @@
-# Scalable Web App – Frontend Developer Internship Assignment
+# Scalable Web App – Dashify
 
 ## ✅ Features Implemented
 - **Frontend**: React + Vite + Tailwind CSS (fully responsive)
